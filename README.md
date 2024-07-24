@@ -12,6 +12,8 @@ Testowa wersja gry jest wystawiona pod adresem [beta.kf2.pl](https://beta.kf2.pl
 
 **HexMapa**: Dołączanie na mapę, poruszanie się po mapie, mapowanie, teleportacja między miastami, zakładanie siedziby gildii. Przy czym najważniejsze tutaj jest przetestowanie tego na jak największej liczbie urządzeń, w wielu zakładkach, także przy słabszych i starszych urządzeniach. 
 
+Testy fajnie jakby były przeprowadzane z poziomu urządzeń mobilnych, tabletów oraz desktopów.
+
 ## Dodatkowe informacje
 
 System jest zbudowany tak  by nie przeładowywać strony dzięki czemu przełączanie się między podstronami przebiega szybko. Komunikacja z serwerem jest dwukierunkowa to znaczy, że użytkownik może otrzymywać informacje z serwera nawet jeśli o nie nie wysłał requestu. Lista eventów, które mogą pomóc w głębszym testowaniu:
