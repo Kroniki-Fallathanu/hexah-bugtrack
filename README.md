@@ -10,7 +10,7 @@ Testowa wersja gry jest wystawiona pod adresem [beta.kf2.pl](https://beta.kf2.pl
 
 **Gildie**: Zakładanie gildii, usuwanie gildii, nadawanie uprawnień, wpłacanie złota do skarbca. W przypadku zakładania, czy usuwania gildii trzeba sprawdzić czy dane o gildii na liście graczy online aktualizują się poprawnie. W przypadku wielu otwartych zakładek także warto to sprawdzić.
 
-**HexMapa**: Dołączanie na mapę, poruszanie się po mapie, mapowanie, teleportacja między miastami, zakładanie siedziby gildii. Przy czym najważniejsze tutaj jest przetestowanie tego na jak największej liczbie urządzeń, w wielu zakładkach, także przy słabszych i starszych urządzeniach. 
+**HexMapa**: Dołączanie na mapę, poruszanie się po mapie, mapowanie, teleportacja między miastami, zakładanie siedziby gildii. Przy czym najważniejsze tutaj jest przetestowanie tego na jak największej liczbie urządzeń, w wielu zakładkach, także przy słabszych i starszych urządzeniach. **W przypadku mapy zwróćcie też uwagę na jej strukturę, jeśli rzeki nie łączą się jak trzeba albo wybrzeża wyglądają dziwnie, zgłaszajcie wszelkie zauważone problemy z tym związane**. 
 
 Testy fajnie jakby były przeprowadzane z poziomu urządzeń mobilnych, tabletów oraz desktopów.
 
