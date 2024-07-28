@@ -2,7 +2,7 @@
 name: Zgłoś błąd
 about: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
 title: "[BUG]"
-labels: bug
+labels: Błąd
 assignees: thoranrion
 
 ---
