@@ -1,6 +1,6 @@
 ---
 name: Zgłoś propozycję
-about: Opisz jak najdokłdniej propozycję/pomysł
+about: Opisz jak najdokładniej propozycję/pomysł
 title: "[FEATURE]"
 labels: Propozycja
 assignees: thoranrion
