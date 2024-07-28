@@ -1,0 +1,11 @@
+---
+name: Zgłoś propozycję
+about: Opisz jak najdokłdniej propozycję/pomysł
+title: "[FEATURE]"
+labels: Propozycja
+assignees: thoranrion
+
+---
+
+**Opisz propozycję**
+Prosty ale treściwy opis.
