@@ -1,10 +1,10 @@
 ---
 name: Zgłoś błąd
 about: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
-title: "[BUG]"
+title: ""
 labels: Błąd
 assignees: thoranrion
-
+type: Bug
 ---
 
 **Opisz błąd**
