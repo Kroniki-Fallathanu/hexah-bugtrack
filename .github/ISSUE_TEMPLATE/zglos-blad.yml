@@ -33,7 +33,7 @@ body:
         1.
         2.
         3.
-      render: bash
+      render: markdown
     validations:
       required: true
   - type: textarea
@@ -41,7 +41,7 @@ body:
     attributes:
       label: Oczekiwane zachowanie
       description: "Jasny opis tego w jaki sposób system powinien się zachować jeśli błędu by nie było."
-      render: bash
+      render: markdown
     validations:
       required: true
   - type: textarea
@@ -52,6 +52,6 @@ body:
       value: |
         1. System operacyjny: [np. iOS] i wersja
         2. Przeglądarka [np. chrome, safari] i wersja
-      render: bash
+      render: markdown
     validations:
       required: false
