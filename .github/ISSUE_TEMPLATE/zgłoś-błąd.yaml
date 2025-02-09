@@ -7,35 +7,35 @@ projects: []
 assignees:
   - thoranrion
 body:
-- type: textarea
-  id: repro
-  attributes:
-    label: Opisz błąd
-    description: "Kroki do odtworzenia"
-    value: |
-      1.
-      2.
-      3.
-    render: bash
-  validations:
-    required: true
-- type: textarea
-  id: good
-  attributes:
-    label: Oczekiwane zachowanie
-    description: "Jasny opis tego w jaki sposób system powinien się zachować jeśli błędu by nie było."
-    value: ""
-    render: bash
-  validations:
-    required: true
-- type: textarea
-  id: env
-  attributes:
-    label: Twoje środowisko
-    description: "Jeśli może to być istotne dla rozwiązania problemu podaj te dane."
-    value: |
-      1. System operacyjny: [np. iOS] i wersja
-      2. Przeglądarka [np. chrome, safari] i wersja
-    render: bash
-  validations:
-    required: false
+  - type: textarea
+    id: repro
+    attributes:
+      label: Opisz błąd
+      description: "Kroki do odtworzenia"
+      value: |
+        1.
+        2.
+        3.
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: good
+    attributes:
+      label: Oczekiwane zachowanie
+      description: "Jasny opis tego w jaki sposób system powinien się zachować jeśli błędu by nie było."
+      value: ""
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: Twoje środowisko
+      description: "Jeśli może to być istotne dla rozwiązania problemu podaj te dane."
+      value: |
+        1. System operacyjny: [np. iOS] i wersja
+        2. Przeglądarka [np. chrome, safari] i wersja
+      render: bash
+    validations:
+      required: false
