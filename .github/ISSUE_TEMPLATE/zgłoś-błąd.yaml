@@ -1,8 +1,11 @@
-name: Zgłoś błąd
-about: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
-title: ""
-assignees: thoranrion
 type: Bug
+name: Zgłoś błąd
+description: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
+title: "[Bug]: "
+labels: ["bug"]
+projects: []
+assignees:
+  - thoranrion
 body:
 - type: textarea
   id: repro
