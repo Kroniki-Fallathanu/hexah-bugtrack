@@ -8,7 +8,7 @@ assignees:
   - thoranrion
 body:
   - type: dropdown
-    id: good
+    id: module
     attributes:
       label: Moduł
       description: "Wybierz moduł KF, którego dotyczy pomysł."
