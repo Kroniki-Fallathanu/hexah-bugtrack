@@ -28,7 +28,7 @@ body:
     id: repro
     attributes:
       label: Opisz błąd
-      description: "Kroki do odtworzenia"
+      description: "Kroki do odtworzenia, pomocne grafiki itd"
       value: |
         1.
         2.
