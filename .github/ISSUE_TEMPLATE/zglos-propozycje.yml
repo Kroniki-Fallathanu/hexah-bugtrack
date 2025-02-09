@@ -29,6 +29,5 @@ body:
     attributes:
       label: Opisz propozycję
       description: "Prosty ale treściwy opis."
-      render: markdown
     validations:
       required: true
