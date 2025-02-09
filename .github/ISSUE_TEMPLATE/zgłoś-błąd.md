@@ -4,31 +4,37 @@ about: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
 title: ""
 assignees: thoranrion
 type: Bug
+body:
+- type: textarea
+  id: repro
+  attributes:
+    label: Opisz błąd
+    description: "Kroki do odtworzenia"
+    value: |
+      1.
+      2.
+      3.
+    render: bash
+  validations:
+    required: true
+- type: textarea
+  id: good
+  attributes:
+    label: Oczekiwane zachowanie
+    description: "Jasny opis tego w jaki sposób system powinien się zachować jeśli błędu by nie było."
+    value: ""
+    render: bash
+  validations:
+    required: true
+- type: textarea
+  id: env
+  attributes:
+    label: Twoje środowisko
+    description: "Jeśli może to być istotne dla rozwiązania problemu podaj te dane."
+    value: |
+      1. System operacyjny: [np. iOS] i wersja
+      2. Przeglądarka [np. chrome, safari] i wersja
+    render: bash
+  validations:
+    required: false
 ---
-
-**Opisz błąd**
-Prosty ale treściwy opis błędu.
-
-**Kroki do odtworzenia**
-Mogą się składać z takich elementów:
-1. Idź na stronę '...'
-2. Kliknij w '....'
-3. Przewiń do '....'
-4. Zobacz błąd
-
-**Oczekiwane zachowanie**
-Jasny opis tego w jaki sposób system powinien się zachować jeśli błędu by nie było.
-
-**Screenshots**
-Jeśli pomogą w namierzeniu problemu wrzuć też screeny.
-
-**Twoje środowisko:**
- - System operacyjny: [np. iOS]
- - Przeglądarka [np. chrome, safari]
- - Wersje [np. 22]
-
-**Smartfon:**
- - Urządzenie: [np. iPhone6]
- - System: [np. iOS8.1]
- - Przeglądarka [np. stock browser, safari]
- - Wersje [np. 22]
