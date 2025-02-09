@@ -1,1 +1,5 @@
-
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Server
+    url: https://discord.com/channels/267663353126584321/1330189931305242747
+    about: W razie wątpliwości co do zgłoszenia zadaj pytanie na Discordzie.
