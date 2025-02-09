@@ -11,7 +11,7 @@ body:
     id: module
     attributes:
       label: Moduł
-      description: "Wybierz moduł KF, którego dotyczy pomysł."
+      description: "Wybierz moduł KF, którego dotyczy błąd."
       options:
         - "Nie wiem"
         - "Moduł: Opowieści"
