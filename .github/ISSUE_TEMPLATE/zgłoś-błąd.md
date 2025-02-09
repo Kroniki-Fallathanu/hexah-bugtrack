@@ -1,4 +1,3 @@
----
 name: Zgłoś błąd
 about: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
 title: ""
@@ -37,4 +36,3 @@ body:
     render: bash
   validations:
     required: false
----
