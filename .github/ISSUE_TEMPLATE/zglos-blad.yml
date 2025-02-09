@@ -2,7 +2,7 @@ name: Zgłoś błąd
 description: Stwórz dokładny opis aby jak najlepiej pomóc w rozwiązaniu problemu
 title: "[Bug]: "
 type: "Bug"
-labels: ["bug"]
+labels: ["Nowe"]
 projects: []
 assignees:
   - thoranrion
