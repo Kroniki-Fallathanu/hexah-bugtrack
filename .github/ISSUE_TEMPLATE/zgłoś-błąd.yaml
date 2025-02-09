@@ -24,7 +24,6 @@ body:
     attributes:
       label: Oczekiwane zachowanie
       description: "Jasny opis tego w jaki sposób system powinien się zachować jeśli błędu by nie było."
-      value: ""
       render: bash
     validations:
       required: true
