@@ -1,0 +1,35 @@
+name: Zgłoś propozycję
+description: Opisz jak najdokładniej propozycję/pomysł
+title: "[Feature]: "
+type: "Feature"
+labels: ["Nowe"]
+projects: []
+assignees:
+  - thoranrion
+body:
+  - type: textarea
+    id: repro
+    attributes:
+      label: Opisz propozycję
+      description: "Prosty ale treściwy opis."
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: good
+    attributes:
+      label: Moduł
+      description: "Wybierz moduł KF, którego dotyczy pomysł."
+      render: bash
+      options:
+        - Nie wiem
+        - Moduł: Opowieści
+        - Moduł: Opowieści - Karczma
+        - Moduł: Karta Postaci
+        - Moduł: Kreator
+        - Moduł: Miasto
+        - Moduł: Mapa
+        - Moduł: Gildie
+      default: 0
+    validations:
+      required: true
