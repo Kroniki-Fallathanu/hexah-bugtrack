@@ -7,6 +7,23 @@ projects: []
 assignees:
   - thoranrion
 body:
+  - type: dropdown
+    id: good
+    attributes:
+      label: Moduł
+      description: "Wybierz moduł KF, którego dotyczy pomysł."
+      options:
+        - "Nie wiem"
+        - "Moduł: Opowieści"
+        - "Moduł: Opowieści - Karczma"
+        - "Moduł: Karta Postaci"
+        - "Moduł: Kreator"
+        - "Moduł: Miasto"
+        - "Moduł: Mapa"
+        - "Moduł: Gildie"
+      default: 0
+    validations:
+      required: true
   - type: textarea
     id: repro
     attributes:
