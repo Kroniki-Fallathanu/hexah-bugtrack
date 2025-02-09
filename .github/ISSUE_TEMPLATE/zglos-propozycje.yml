@@ -7,14 +7,6 @@ projects: []
 assignees:
   - thoranrion
 body:
-  - type: textarea
-    id: repro
-    attributes:
-      label: Opisz propozycję
-      description: "Prosty ale treściwy opis."
-      render: bash
-    validations:
-      required: true
   - type: dropdown
     id: good
     attributes:
@@ -30,5 +22,13 @@ body:
         - "Moduł: Mapa"
         - "Moduł: Gildie"
       default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Opisz propozycję
+      description: "Prosty ale treściwy opis."
+      render: bash
     validations:
       required: true
