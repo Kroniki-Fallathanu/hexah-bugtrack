@@ -1,6 +1,6 @@
 # Beta testy KF2.0
 
-Testowa wersja gry jest wystawiona pod adresem [betatest.kf2.pl](https://betatest.kf2.pl)
+Testowa wersja gry jest wystawiona pod adresem [test.kf2.pl](https://test.kf2.pl)
 
 # Podstawowe funkcjonalności do przejrzenia
 
