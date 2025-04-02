@@ -13,7 +13,7 @@ body:
       label: Moduł
       description: "Wybierz moduł KF, którego dotyczy błąd."
       options:
-        - "Nie wiem"
+        - "Core silnika"
         - "Moduł: Opowieści"
         - "Moduł: Opowieści - Karczma"
         - "Moduł: Karta Postaci"
